@@ -1,4 +1,4 @@
-# Python CInema Hall<br><br>
+# Python Cinema Hall<br><br>
 <h2>Design your cinema hall with Python. 🙂🎬🎦</h2><br>
 
 Open the program (file "cinema_hall.py") in Python console and enter the required information:
